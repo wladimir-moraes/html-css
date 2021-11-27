@@ -142,7 +142,7 @@ main a:hover {
 }
 
 main img {
-    width: 90%;
+    max-width: 90%;
 }
 
 main img.pequena {
